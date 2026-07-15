@@ -55,6 +55,11 @@ https://github.com/Abhi-4363/smart_agriculture
 **Demo Video:**  
 https://drive.google.com/file/d/1p0kNiHHF7aImcYjtNiXX4dBxpo4wne9R/view
 
+### Website Deployed URL
+
+**Website:**
+https://smartagriculture-one.vercel.app/
+
 ---
 
 # 📂 Project Structure
